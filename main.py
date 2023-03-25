@@ -1,7 +1,7 @@
 # BODYBUILDER'S NUTRITION APPLICATION
 import mysql.connector
 
-#Make DB connection
+# Make DB connection
 mydb = mysql.connector.connect(
     host='localhost',
     user='root',
